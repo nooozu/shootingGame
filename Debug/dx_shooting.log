@@ -1,0 +1,14 @@
+﻿  Menu.cpp
+  ItemManager.cpp
+c:\users\user\desktop\dx_shooting\unit.h(29): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\dx_shooting\unit.h(30): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\dx_shooting\itemmanager.cpp(21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\user\desktop\dx_shooting\itemmanager.cpp(38): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\user\desktop\dx_shooting\itemmanager.cpp(52): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\dx_shooting\itemmanager.cpp(63): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Game.cpp
+c:\users\user\desktop\dx_shooting\unit.h(29): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\dx_shooting\unit.h(30): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\dx_shooting\game.cpp(41): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  コードを生成中...
+  dx_shooting.vcxproj -> C:\Users\User\Desktop\dx_shooting\Debug\dx_shooting.exe
